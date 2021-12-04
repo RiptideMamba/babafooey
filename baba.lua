@@ -917,4 +917,3 @@ function library:GetInfo()
 end
 
 return library
-{"mode":"full","isActive":false}
