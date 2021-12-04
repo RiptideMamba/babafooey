@@ -12,6 +12,8 @@ _libChangelog = [[
     v1.2:
         Added callbacks for textboxes.
         Bugfixes.
+    v1.3:
+	BetterifyedTM
 ]]
 
 repeat game:GetService("RunService").RenderStepped:Wait() until game:IsLoaded() == true
